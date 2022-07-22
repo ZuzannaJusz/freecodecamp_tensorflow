@@ -3,3 +3,5 @@
 ## Coding in google_colabs
 
 https://www.freecodecamp.org/learn/machine-learning-with-python/
+
+#### Do którego momentu?
